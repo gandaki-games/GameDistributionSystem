@@ -1,0 +1,4 @@
+flutter pub add supabase_flutter  //Supabase
+flutter pub add url_launcher      //Url Opener
+flutter pub add easy_sideMenu    //SideMenu
+flutter pub add flutter_onedrive   //Onedrive
